@@ -1,0 +1,15 @@
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+rapidfuzz>=3.0.0
+python-docx>=1.0.0
+reportlab>=4.0.0
+Pillow>=10.0.0
+PyPDF2>=3.0.0
+pdfminer.six>=20221105
+flask>=3.0.0
+flask-cors>=4.0.0
+pytest>=7.4.0
+pytest-cov>=4.1.0
+qrcode>=7.4.2
+python-barcode>=0.15.1
