@@ -20,3 +20,5 @@ dist/
 build/
 .env
 *.log
+.claude/
+.vscode/
