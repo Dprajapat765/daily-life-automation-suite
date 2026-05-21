@@ -2,16 +2,16 @@
 
 | # | Tool | Module | Status | Tests |
 |---|------|--------|--------|-------|
-| 01 | Excel Compare | tools/excel_compare.py | ⏳ | ⏳ |
-| 02 | Multi-File Compare | tools/multi_compare.py | ⏳ | ⏳ |
-| 03 | List Validator | tools/list_validator.py | ⏳ | ⏳ |
-| 04 | Fuzzy Matcher | tools/fuzzy_matcher.py | ⏳ | ⏳ |
-| 05 | Excel Merger | tools/excel_merger.py | ⏳ | ⏳ |
-| 06 | Excel Splitter | tools/excel_splitter.py | ⏳ | ⏳ |
-| 07 | Deduplicator | tools/deduplicator.py | ⏳ | ⏳ |
-| 08 | Data Cleaner | tools/data_cleaner.py | ⏳ | ⏳ |
-| 09 | Format Validator | tools/format_validator.py | ⏳ | ⏳ |
-| 10 | Null Checker | tools/null_checker.py | ⏳ | ⏳ |
+| 01 | Excel Compare | tools/excel_compare.py | ✅ Done | ✅ |
+| 02 | Multi-File Compare | tools/multi_compare.py | ✅ Done | ✅ |
+| 03 | List Validator | tools/list_validator.py | ✅ Done | ✅ |
+| 04 | Fuzzy Matcher | tools/fuzzy_matcher.py | ✅ Done | ✅ |
+| 05 | Excel Merger | tools/excel_merger.py | ✅ Done | ✅ |
+| 06 | Excel Splitter | tools/excel_splitter.py | ✅ Done | ✅ |
+| 07 | Deduplicator | tools/deduplicator.py | ✅ Done | ✅ |
+| 08 | Data Cleaner | tools/data_cleaner.py | ✅ Done | ✅ |
+| 09 | Format Validator | tools/format_validator.py | ✅ Done | ✅ |
+| 10 | Null Checker | tools/null_checker.py | ✅ Done | ✅ |
 | 11 | CSV/Excel Converter | tools/csv_excel_converter.py | ⏳ | ⏳ |
 | 12 | PDF Merger | tools/pdf_merger.py | ⏳ | ⏳ |
 | 13 | PDF Text Extractor | tools/pdf_text_extractor.py | ⏳ | ⏳ |
